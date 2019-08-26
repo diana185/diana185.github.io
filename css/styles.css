@@ -1,9 +1,5 @@
 body {
-  background: linear-gradient(rgb(50, 50, 50), rgb(25, 25, 25)) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: rgb(75,75,75);
 }
 page {
   background: white;
@@ -11,7 +7,7 @@ page {
   margin: 0 auto;
   margin-top: 0.5cm;
   margin-bottom: 0.5cm;
-  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+  box-shadow: 0 0 0.5cm rgba(0,0,0,1);
   width: 21cm;
   height: 29.7cm;
 }
